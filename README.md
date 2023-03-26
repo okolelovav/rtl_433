@@ -1,4 +1,5 @@
 # rtl_433
+replace temperature_2_C temperature2_C
 
 rtl_433 (despite the name) is a generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, 345 MHz, and 915 MHz ISM bands.
 
