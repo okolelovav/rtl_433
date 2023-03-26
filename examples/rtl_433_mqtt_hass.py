@@ -136,7 +136,7 @@ mappings = {
             "state_class": "measurement"
         }
     },
-    "temperature_2_C": {
+    "temperature2_C": {
         "device_type": "sensor",
         "object_suffix": "T2",
         "config": {
